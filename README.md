@@ -10,5 +10,32 @@ Verilog Logic Gates:- Implementation and verification of fundamental digital log
 
 📊 GTKWave – Viewing and analyzing simulation waveforms
 
+CODE:-
+# Logic Gates using Verilog HDL
 
+## Gates Implemented
+- AND Gate
+- OR Gate
+- NOT Gate
+- NAND Gate
+- NOR Gate
+- XOR Gate
+- XNOR Gate
+
+## Design Methodology
+Dataflow Modeling
+
+## RTL Code
+![RTL](RTL code for logic gates.png)
+
+## Testbench
+![Testbench](testbench for logic gates.png)
+
+## Simulation Waveform
+![Waveform](Waveform.png)
+
+## Tools Used
+- VS Code
+- Icarus Verilog
+- GTKWave
 
