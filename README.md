@@ -28,7 +28,7 @@ Dataflow Modeling
 [View waveform](Waveform.png)
 [View waveform](Waveform (2).png)
 [View waveform](Waveform (3).png)
-[View waveform](Waveform (4).png)
+[View waveform](waveform (4).png)
 
 ## Tools Used
 💻 VS Code – Writing and editing Verilog HDL code
