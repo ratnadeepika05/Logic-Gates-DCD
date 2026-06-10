@@ -25,10 +25,10 @@ Dataflow Modeling
 [View Testbench](logic_gates_tb.v)
 
 ## Simulation Waveform
-[View Testbench](Waveform.png)
-[View Testbench](Waveform.png(2))
-[View Testbench](Waveform.png(3))
-[View Testbench](Waveform.png(4))
+[View waveform](Waveform.png)
+[View waveform](Waveform (2).png)
+[View waveform](Waveform (3).png)
+[View waveform](Waveform (4).png)
 
 ## Tools Used
 💻 VS Code – Writing and editing Verilog HDL code
