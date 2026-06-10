@@ -34,10 +34,12 @@ Dataflow Modeling
 [View Testbench](logic_gates_tb.v)
 
 ## Simulation Waveform
-![Waveform](Waveform.png)
+[View Testbench](Waveform.png)
+[View Testbench](Waveform.png(2))
+[View Testbench](Waveform.png(3))
+[View Testbench](Waveform.png(4))
 
 ## Tools Used
-- VS Code
-- Icarus Verilog
-- GTKWave
-
+💻 VS Code – Writing and editing Verilog HDL code
+⚙️ Icarus Verilog – Compiling and simulating Verilog designs
+📊 GTKWave – Viewing and analyzing simulation waveforms
