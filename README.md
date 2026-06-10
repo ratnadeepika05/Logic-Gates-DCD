@@ -25,15 +25,11 @@ Dataflow Modeling
 [View Testbench](logic_gates_tb.v)
 
 ## Simulation Waveform
-
-[Waveform 1](Waveform.png)
-
-[Waveform 2](Waveform (2).png)
-
-[Waveform 3](Waveform (3).png)
-
-[Waveform 4](waveform (4).png)
-
+- [Waveform 1](Waveform.png)
+- [Waveform 2](Waveform2.png)
+- [Waveform 3](Waveform3.png)
+- [Waveform 4](Waveform4.png)
+- 
 ## Tools Used
 💻 VS Code – Writing and editing Verilog HDL code
 ⚙️ Icarus Verilog – Compiling and simulating Verilog designs
