@@ -1,5 +1,6 @@
 # Logic-Gates-DCD
-Verilog Logic Gates:- Implementation and verification of fundamental digital logic gates using Verilog HDL. ⭐Gates: AND, OR, NOT, NAND, NOR, XOR, XNOR
+Verilog Logic Gates:- Implementation and verification of fundamental digital logic gates using Verilog HDL.
+⭐Gates: AND, OR, NOT, NAND, NOR, XOR, XNOR
 
 🛠️ Tools Used
 
