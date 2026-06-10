@@ -26,10 +26,12 @@ CODE:-
 Dataflow Modeling
 
 ## RTL Code
-![RTL](RTL code for logic gates.png)
+
+[View RTL Code](logic_gates.v)
 
 ## Testbench
-![Testbench](testbench for logic gates.png)
+
+[View Testbench](logic_gates_tb.v)
 
 ## Simulation Waveform
 ![Waveform](Waveform.png)
