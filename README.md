@@ -27,6 +27,81 @@ Dataflow Modeling
 ## Simulation Waveform
 ![Waveform](Waveform.png)
 
+## Logic Gates Expressions
+
+| Gate | Expression |
+|------|------------|
+| AND  | A & B |
+| OR   | A \| B |
+| NOT  | ~A |
+| NAND | ~(A & B) |
+| NOR  | ~(A \| B) |
+| XOR  | A ^ B |
+| XNOR | ~(A ^ B) |
+
+## Truth Tables
+
+### AND Gate
+
+| A | B | Y |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
+
+### OR Gate
+
+| A | B | Y |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
+
+### NOT Gate
+
+| A | Y |
+|---|---|
+| 0 | 1 |
+| 1 | 0 |
+
+### NAND Gate
+
+| A | B | Y |
+|---|---|---|
+| 0 | 0 | 1 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
+### NOR Gate
+
+| A | B | Y |
+|---|---|---|
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 0 |
+
+### XOR Gate
+
+| A | B | Y |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
+### XNOR Gate
+
+| A | B | Y |
+|---|---|---|
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
+
 ## Tools Used
 💻 VS Code – Writing and editing Verilog HDL code
 ⚙️ Icarus Verilog – Compiling and simulating Verilog designs
